@@ -1,7 +1,8 @@
 # Lua Utilities (API)
 Commonly used functions for Lua
 <br>
-Includes:
+<br>
+Features:
 - Number, string and table manipulation
 - Userinfo, and User Settings
 - Access to other APIs
