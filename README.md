@@ -1,13 +1,17 @@
-<h1>Lua Utilities (API)</h1>
+# 🚀 Lua Utilities (API)
 
-Commonly used functions for Lua
+## 📋 Description
+- A callable script of commonly used functions
+- Saves bare time cuz many features
 
-<b>Features:</b>
+## 🔧 Features
+- **Data type manipulation**: allows easy manipulation of strings, numbers and tables
+- **User handling**: get OSINT user info, snapshots, etc
+- **Common features**: things like time formatting, number rounding etc
 
-<ul>
-  <li>String, number and table manipulation</li>
-  <li>Userinfo, and User Settings</li>
-  <li>Access to other APIs</li>
-  <li>Ability to add custom functions (global scope)</li>
-  <li>Error handling and (potentially) secure calls</li>
-</ul>
+## 🛠️ Usage
+```Lua
+local API = require(...)
+```
+
+**Documentation will be added soon.**
